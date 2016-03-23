@@ -73,3 +73,15 @@ p {
 footer.page-footer {
   margin: 0;
 }
+
+/*
+ * Text outline
+ */
+
+ .grey-outline {
+  text-shadow:
+   -1px -1px 0 #555,  
+    1px -1px 0 #555,
+    -1px 1px 0 #555,
+     1px 1px 0 #555
+ }
